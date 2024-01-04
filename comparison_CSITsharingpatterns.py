@@ -11,7 +11,7 @@ paper as described in the README file
 
 import numpy as np
 import matplotlib.pyplot as plt
-from numpy import sqrt, log2, log10, diag, eye
+    from numpy import sqrt, log2, log10, diag, eye
 from numpy.linalg import norm, inv, pinv
 
 # Parameters
